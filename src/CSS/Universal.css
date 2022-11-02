@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;0,800;0,900;1,600&display=swap');
+/* @font-face {
+    font-family: VisbyRound_Heavy;
+    src: url(../../Fonts/VisbyRoundCF-Heavy.otf);
+}
+@font-face {
+    font-family: VisbyRound_Bold;
+    src: url(../../Fonts/VisbyRoundCF-Bold.otf);
+}
+@font-face {
+    font-family: VisbyRound_DemiBold;
+    src: url(../../Fonts/VisbyRoundCF-DemiBold.otf);
+} */
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    scroll-behavior: smooth;
+    /* font-family: VisbyRound_Bold; */
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+:root{
+    --black: black;
+    --white: white;
+    --blue: #39B4FF;
+    --blue_navbar: #39b3ffeb;
+}
+.active_button_color{
+    /* color: var(--black) !important; */
+    color: var(--blue) !important;
+}
+.display_none_to_desktop{
+    display: none;
+}
+.display_none_to_mobile{
+    display: block;
+}
+
+
+@media only screen and (max-width:768px){
+    .display_none_to_desktop{
+        display: block;
+    }
+    .display_none_to_mobile{
+        display: none;
+    }
+}
+
+.coming_soon{
+    margin: 11.5rem 0;
+    text-align: center;
+}
+
+.chat_widget{
+    position: fixed;
+    /* border: 1px solid red; */
+    right: 2%;
+    bottom: 2%;
+    z-index: 1000;
+    background-color: white;
+    color: black;
+    border-radius: 5rem;
+    width: 4rem;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    cursor: pointer;
+    box-shadow: 1px 1px 10px black;
+}
+
+.chat_widget i{
+    font-size: 2rem;
+    padding: 1rem;
+    /* margin-left: -.3rem; */
+    /* border: 1px solid red; */
+}

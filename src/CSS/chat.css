@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+ margin-top: 28px;
+ margin-left: 39px;
+}
+p{
+  margin-top: 14px ;
+  margin-left: 39px;
+}
+.chat_outer{
+display: flex;
+gap: 10px;
+margin-top: 18px;
+margin-left: 14px;
+width: 347px;
+height: 89px;
+border: 3px solid black;
+position: absolute;
+background-color: #ffffff;
+}
+.chat_inner{
+position: relative;
+margin-top: 21px;
+margin-left: 19px;
+margin-bottom: 16px;
+width: 314px;
+height: 52px;
+border-radius: 10px;   
+background-color: #4BC959;
+}
+.chat_inner img{
+  width: 16px;
+  height: 14px;
+}
+.message_box{
+  width: 375px;
+  height: 237px;
+ border: 3px solid black; 
+ margin-top: 20%;
+ margin-left: 65%;
+ background-color: #04395E;
+ color: white;
+
+
+
+}
+.btn-send{
+ 
+}
+
+
