@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69be6508.css",
+    "main.js": "/static/js/main.9a4b7452.js",
+    "static/js/787.eca9f7cf.chunk.js": "/static/js/787.eca9f7cf.chunk.js",
+    "static/media/Buyers_Page_FAQ_section.png": "/static/media/Buyers_Page_FAQ_section.4c50d57843bc345fb985.png",
+    "static/media/Section_2_4_Buyers.jpg": "/static/media/Section_2_4_Buyers.48088110b516a747e385.jpg",
+    "static/media/Sellers_Page_Main_Image.png": "/static/media/Sellers_Page_Main_Image.b50050601aea74a35528.png",
+    "static/media/Sellers_Page_FAQ_section.png": "/static/media/Sellers_Page_FAQ_section.b35e18a94ca45692f509.png",
+    "static/media/Buyers_Page_Main_Image.png": "/static/media/Buyers_Page_Main_Image.c5762dcf01df925982d5.png",
+    "static/media/Section_3_Sellers.png": "/static/media/Section_3_Sellers.d2210f8aa71b707febfc.png",
+    "static/media/Section_3.png": "/static/media/Section_3.2198fff0858d58f9ed5d.png",
+    "static/media/Maqure-Logo-Animation.mp4": "/static/media/Maqure-Logo-Animation.640e19f843f1e9c4261c.mp4",
+    "static/media/Section_2_1_Buyers.jpg": "/static/media/Section_2_1_Buyers.c4940de1077c60422091.jpg",
+    "static/media/Home_Page_Background.svg": "/static/media/Home_Page_Background.b2450964b76028d99fa2089dd913eaaa.svg",
+    "static/media/Section_2_2_Buyers.jpg": "/static/media/Section_2_2_Buyers.a1ed6b80674e673a1719.jpg",
+    "static/media/Section_2_3_Buyers.jpg": "/static/media/Section_2_3_Buyers.3de83196a1b3a21a88d0.jpg",
+    "static/media/Section_2_2_Sellers.jpeg": "/static/media/Section_2_2_Sellers.75378546c26920f1a7f7.jpeg",
+    "static/media/Prefer_Buyers_1.png": "/static/media/Prefer_Buyers_1.e564f0db1861a20ad0ed.png",
+    "static/media/Section_2_3_Sellers.jpeg": "/static/media/Section_2_3_Sellers.3b3b1d24f5be17ab10e4.jpeg",
+    "static/media/Prefer_Sellers_1.png": "/static/media/Prefer_Sellers_1.8f6622a33a48c698cc62.png",
+    "static/media/Prefer_Buyers_3.png": "/static/media/Prefer_Buyers_3.e487c458fc4b4347bd30.png",
+    "static/media/Prefer_Sellers_4.png": "/static/media/Prefer_Sellers_4.20605354a967b7df5367.png",
+    "static/media/Section_2_1_Sellers.jpeg": "/static/media/Section_2_1_Sellers.6068e870f214e1888845.jpeg",
+    "static/media/Quality_Card.png": "/static/media/Quality_Card.f18cdcf48493613f9b56.png",
+    "static/media/Financing_Card.png": "/static/media/Financing_Card.e4761b38f3e38b2fc4fe.png",
+    "static/media/Prefer_Buyers_2.png": "/static/media/Prefer_Buyers_2.168bd3537f49aea1e7d4.png",
+    "static/media/Prefer_Sellers_2.png": "/static/media/Prefer_Sellers_2.168bd3537f49aea1e7d4.png",
+    "static/media/Buying_Card.png": "/static/media/Buying_Card.7b1f1e38c6d7cdf290c7.png",
+    "static/media/Section_2_4_Sellers.jpeg": "/static/media/Section_2_4_Sellers.d7e9b8c47eddaa8f2477.jpeg",
+    "static/media/Transparency_Card.png": "/static/media/Transparency_Card.70b45b4b601485dafeff.png",
+    "static/media/Selling_Card.png": "/static/media/Selling_Card.d552d9c7d6d8525bb425.png",
+    "index.html": "/index.html",
+    "main.69be6508.css.map": "/static/css/main.69be6508.css.map",
+    "main.9a4b7452.js.map": "/static/js/main.9a4b7452.js.map",
+    "787.eca9f7cf.chunk.js.map": "/static/js/787.eca9f7cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69be6508.css",
+    "static/js/main.9a4b7452.js"
+  ]
+}
